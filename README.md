@@ -16,14 +16,14 @@ In all the exercises below, we will use the following syntax:
 * `text` to indicate text you have to type in
 
 ## Exercises
-* [Exercise 01 - Create an adaptive form](exercise01/README.md)
-* [Exercise 02 - Understand the UI](exercise02/README.md)
-* [Exercise 03 - Configure your form](exercise03/README.md)
-* [Exercise 04 - Add content using form fragments](exercise04/README.md)
-* [Exercise 05 - Add content using components](exercise05/README.md)
-* [Exercise 06 - Use complex components](exercise06/README.md)
-* [Exercise 07 - Add rules](exercise07/README.md)
-* [Exercise 08 - Apply a theme and generate a DoR](exercise08/README.md)
-* [Exercise 09 - Application submission](exercise09/README.md)
-* [Exercise 10 - Final test of the form](exercise10/README.md)
+* [Exercise 01 - Create an adaptive form](exercise01/)
+* [Exercise 02 - Understand the UI](exercise02/)
+* [Exercise 03 - Configure your form](exercise03/)
+* [Exercise 04 - Add content using form fragments](exercise04/)
+* [Exercise 05 - Add content using components](exercise05/)
+* [Exercise 06 - Use complex components](exercise06/)
+* [Exercise 07 - Add rules](exercise07/)
+* [Exercise 08 - Apply a theme and generate a DoR](exercise08/)
+* [Exercise 09 - Application submission](exercise09/)
+* [Exercise 10 - Final test of the form](exercise10/)
 

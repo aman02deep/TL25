@@ -1,0 +1,6 @@
+{
+  "name": "End-to-end-form-applications-with-aem",
+  "tagline": "End-to-end form applications with Adobe Experience Manager",
+  "body": "# End-to-end-form-applications-with-aem\r\nWhen creating a form, there are two elements to consider: customer experience and technology, such as your back-end integration. Learn how to create an enrolment form that is completely integrated with a business application and then deliver the form in an Experience Manager Site as part of a customer enrolment process.\r\n\r\nIn this hands-on lab you will:  \r\n* Design an adaptive form using out-of-the-box components, themes and fragments\r\n* Integrate to a business application using out-of-the-box tools and connectors to pre-fill and submit forms\r\n* Embed forms in Experience Manager Sites pages.\r\nAll through the following exercises below.\r\n\r\nIn all the exercises we will use the following syntax:\r\n* *italic* to indicate UI elements (screens, windows, dialogs, buttons, etc) for recognition\r\n* **bold** to indicate UI elements you have to click on\r\n* `text` to indicate text you have to type in\r\n\r\n\r\n## Exercises\r\n1. Create an adaptive form\r\n2.  \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

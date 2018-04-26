@@ -18,7 +18,7 @@ This will delete the second row from the table. Our table will have dynamic rows
 3. On the component's toolbar, click on the **...** and then select **Replace**. In the *Replace Component* dialog, select **Drop-down List**. This will replace the component. By default, a table is created with text box components in each of the cell and this is how we can change this.
 4. Select the drop-down list component and click on **Properties**. In the *Properties* pane, enter `dlExperience` for *Name* and `Experience` for *Title*. Note however that the title for this component is hidden by default.
 5. Add the following items to the drop-down list: `Knowledge`, `Presentation`, `London Weather` and `London Food`. 
-6. Enter `Select Experience` in the *Placeholder Text*.
+6. Enter `Select experience` in the *Placeholder Text*.
 7. Click on **√** to confirm.
 8. Select the second text box to the right of our *Select Experience* dropdown list on the first row of the table.
 9. Again, select the *...*, followed by **Replace** and select **Numeric Box** from the dialog.

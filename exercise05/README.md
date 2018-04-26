@@ -42,7 +42,7 @@ As you can see, the *Name* and *Email* text box takes the whole width of the for
 6. Select **Section** entry in the *Content* pane and while hovering, click on the **Configure** (wrench) icon on the right of that selected entry. This will open the *Properties* pane.
 7. In the *Properties* pane, select **2** in the *Number of Columns* dropdown listbox.
 8. Click on **√** to confirm changes.
-9. Select *Country* component in the form and click on the **Configure** button in the toolbar.
+9. Select *Country* component in the *Content* pane and click on the **Configure** button in the toolbar.
 10. In the *Properties* pane, select **2** from the *Colspan* dropdown listbox.
 
 *Name* and *Email* will now be positioned next to each other. However, when you make your browser window smaller, you will see that the form will behave responsive and position both fields underneath of each other. *Country* on the other hand will be displayed across the whole width of the panel, despite that the panel is configured to consist of two columns.

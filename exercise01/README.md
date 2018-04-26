@@ -9,7 +9,7 @@ Learn how to create an adaptive form within AEM Forms.
 1. Ensure AEM is started. Point your browser to http://localhost:4502. When prompted for login details use **admin** for *User Name* and **admin** for *Password*.
 2. In the *Navigation* screen, click on **Forms**.
 3. In the *Forms* screen, click on **Forms & Documents**.
-4. In the *Forms & Documents* screen click the **Create** button. If you see a popup appear about *Product Navigation*, check **Dont show this again** and click on **Close**.
+4. In the *Forms & Documents* screen click the **Create** button. If you see a popup appear about *Product Navigation*, check **Don't show this again** and click on **Close**.
 5. In the dropdown menu select **Adaptive Form**.
 6. In the *Select Tempate (1/2)* screen (which is part of the *Create Adaptive Form* wizard), select the **SummitSession** tempate, and click **Next**.
 7. In the *Add Properties (2/2)* screen, Set the title to `Summit Feedback Form`. \

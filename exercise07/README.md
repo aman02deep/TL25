@@ -30,7 +30,7 @@ We will first add the necessary fields to the Quiz panel. To do so:
 ## Add a rule
 Now we will add a rule to the panel that will automatically change the text in the *Your Status* text box.
 1. Select the **Your Status** text box.
-2. Click on the **Edit Rules** button to open the *Rule Editor*.
+2. Click on the **Edit Rules** button to open the *Rule Editor*. If you see a *View & Create Rules* popup you can click through it (click **Next**) or close it immediately (click **Skip**).
 3. Click on **+ Create** to create a new rule.
 4. In the *Your Status - When* screen, select from the *WHEN* drop-down list, **Set Value of**.
 5. Select from the *Select Option*, **Enter a String** and type `You are a real Summit Pro`.

@@ -11,7 +11,7 @@ We will first add the necessary fields to the Quiz panel. To do so:
 3. Add a drop-down list component to the form. Configure it as follows:
    1. *Name*: `dlAEMVersion`.
    2. *Title*: `What is the current version of AEM you are working with?`.
-   3. *Placeholder Text*: `Select Version`.
+   3. *Placeholder Text*: `Select version`.
    4. Add `6.1`, `6.2`, `6.3`, `6.4 beta` as *Items*.
 4. Click on **√** to confirm.
 5. Add **Radio Button** component below the *Drop-down list* component.

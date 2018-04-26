@@ -6,8 +6,8 @@ In this exercise you will learn how configure the layout of your form, and how t
 ## Configure layout
 You configure your form's layout you will configuring the Root Panel layout.
 1. Select the **Root Panel** in the *Content* sidebar, or by selecting the **Root Panel** component in the form itself.
-2. Open the properties for the *Root Panel* by clicking on the **Configure** button on the component toolbar. Alternatively, you can click on the wrench icon in the *Properties* pane, when you hover over the *Root Panel* entry in that pane.
-3. In the *Properties* for the *Root Panel* select **Tabs on Left** from the *Panel Layout* dropdown listbox.
+2. Open the properties for the *Root Panel* by clicking on the **Configure** button on the component toolbar. Alternatively, you can click on the wrench icon in the *Properties* pane, when you hover over the **Root Panel** entry in that pane.
+3. In the *Properties* for the *Root Panel* select **Tabs on Left** from the *Panel Layout* drop-down list.
 4. Click on the **√** at the top of the Properties pane to confirm your change of the properties. For the remainder of this lab, remember that you always have to confirm changes to properties by clicking this **√** button.
 
 ## Add toolbar
@@ -22,7 +22,7 @@ Your toolbar should now look like below.\
 ![Toolbar](../images/toolbar.png)
 
 ## Adding child panels
-We will now add multiple child panels to our form. Child panels allow you to structure your form both hierarchically as well as visually. In our example, adding child panels will actually add tabs to the form because of our layout configuration we die earlier.
+We will now add multiple child panels to our form. Child panels allow you to structure your form both hierarchically as well as visually. In our example, adding child panels will actually add tabs to the form because of our layout configuration.
 1. Select **Root Panel** (you should by now, know how to select the Root Panel, otherwise re-read the section Configure Layout above).
 2. Click the **...** button on the component's toolbar.
 3. Select **Add Child Panel** from the dropdown menu. 

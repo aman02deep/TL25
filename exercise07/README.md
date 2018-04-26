@@ -21,7 +21,7 @@ We will first add the necessary fields to the Quiz panel. To do so:
    3. Modify the two *Items* so they read `0=No` and ` 1=Yes`.
 7. Add a **Text Box** component underneath the *Did you have baked beans for breakfast?* radio button group. And configure it as follows:
    1. *Name*: `tbStatus`.
-   2. *Title*: `Status`.
+   2. *Title*: `Your Status`.
    3. *Default Value*: `...`.
    4. Check the *Disable Object* option to prevent end user to make changes to this text box.
 8. Click on **√** to confirm.

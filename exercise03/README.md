@@ -6,7 +6,7 @@ In this exercise you will learn how configure the layout of your form, and how t
 ## Configure layout
 You configure your form's layout you will configuring the Root Panel layout.
 1. Select the **Root Panel** in the *Content* sidebar, or by selecting the **Root Panel** component in the form itself.
-2. Open the properties for the *Root Panel* by clicking on the **Configure** button on the component toolbar. Alternatively, you can click on the wrench icon in the *Properties* pane, when you hover over the Root Panel entry in that pane.
+2. Open the properties for the *Root Panel* by clicking on the **Configure** button on the component toolbar. Alternatively, you can click on the wrench icon in the *Properties* pane, when you hover over the *Root Panel* entry in that pane.
 3. In the *Properties* for the *Root Panel* select **Tabs on Left** from the *Panel Layout* dropdown listbox.
 4. Click on the **√** at the top of the Properties pane to confirm your change of the properties. For the remainder of this lab, remember that you always have to confirm changes to properties by clicking this **√** button.
 

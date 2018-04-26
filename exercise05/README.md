@@ -59,7 +59,7 @@ Assuming you're not alone behind the workstation right now, we would like to ext
 8. Select **Accordion** from the *Layout* dropdown list.
 9. Click **√** to confirm.
 
-Your fowm should now look like the screenshot below:\
+Your form should now look like the screenshot below:\
 ![Repeat Person](../images/peoplerepeat.png)
 
 

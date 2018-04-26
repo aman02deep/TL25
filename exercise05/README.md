@@ -19,7 +19,7 @@ In this exercise you will learn how to add content to the form using components 
 2. Select the **Email** component and click on **Properties** in the toolbar. In the *Properties* pane:
    1. Enter **ebEmail** as *Name*.
    2. Scroll down and click on **Patterns**. \
-   You will see this email component has a specific validation pattern defined (using a regular expression `^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$`) to ensure a valid email is provided. Don' worry, you do not have to remember this. The email component is nothing else than a more sophisticated text box component with this additional validation already applied for you.
+   You will see this email component has a specific validation pattern defined (using a regular expression `^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$`) to ensure a valid email is provided. Don't worry, you do not have to remember this. The email component is nothing else than a more sophisticated text box component with this additional validation already applied for you.
    3. Click on **√** to confirm.
 3. Select the **Drop-down List** component and click on **Properties** in the toolbar. In the *Properties* pane:
    1. Enter **dlCountry** as *Name*.

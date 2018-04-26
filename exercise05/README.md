@@ -12,7 +12,7 @@ In this exercise you will learn how to add content to the form using components 
 
 ## Configure the components
 1. Select the **Text Box** component and click on **Properties** in the toolbar. In the *Properties* pane:
-   1. Enter **tbName** as *Name*. The name of a component is important as you can use refer to it rules and more advanced scripting. It is a good practice to identify your component with a somewhat descriptive name.
+   1. Enter **tbName** as *Name*. The name of a component is important as you can use it to refer to it in rules and more advanced scripting. It is a good practice to identify your component with a somewhat descriptive name. In this lab we will use two characters to identify the type of component (e.g. `tb` for text box, `dl` for drop-down list, etc.), but you're completely free in choosing your own naming convention.
    2. Enter **Name** as *Title*.
    3. Click on **√** to confirm.
 2. Select the **Email** component and click on **Properties** in the toolbar. In the *Properties* pane:

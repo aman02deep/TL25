@@ -30,7 +30,7 @@ This will open the workflow editor for *EMAIL DOR*. As you can see the current w
 3. Leave all other values unchanged and click on **√** to close the dialog.
 4. Back in the workflow editor, double click on the **Send Email** activity.
 5. Inspect the various tabs of the dialog. Especially in the *Attachments* tab you see how this activity takes the generated document of record from the previous activity and adds this as an attachment to the email.
-5. Click on the **Recipient Detail** tab and fill in your *Recipient' Email Address*. If you both want to receive the DOR, ensure you fill in two email addresses, as shown in screenshot below:\n
+5. Click on the **Recipient Detail** tab and fill in your *Recipient's Email Address*. If you both want to receive the DOR, ensure you fill in two email addresses, as shown in screenshot below:\n
 ![Recipients](../images/recipients.png)
 6. Click on **√** to confirm.
 7. Back in the *EMAIL DOR* editor, click on the **Sync** button to sync the workflow with the workflow engine.

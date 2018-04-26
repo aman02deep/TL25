@@ -1,12 +1,13 @@
 # End-to-end form applications with Adobe Experience Manager
 
 ## Introduction
-When creating a form, there are two elements to consider: customer experience and technology, such as your back-end integration. Learn how to create an enrolment form that is completely integrated with a business application and then deliver the form in an Experience Manager Site as part of a customer enrolment process.
+When creating a form, there are two elements to consider: customer experience and technology, such as your back-end integration. Learn how to create an Adobe Summit feedback form that is dynamic, has intelligence built in and is integrated through a workflow with back-end application functionality.
 
 # Objectives
 In this hands-on lab you will:  
-* Design an adaptive form using out-of-the-box components, themes and fragments
-* Integrate to a business application using out-of-the-box tools and connectors to submit a form
+* Design an adaptive form using out-of-the-box components, themes and fragments.
+* Build intelligence in the form using rules.
+* Integrate with back-end functionality through out-of-the-box tools and connectors to submit a form
 
 
 ## Syntax

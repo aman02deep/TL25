@@ -14,7 +14,7 @@ That's all there is to add a table to your form.
 We want the table to contain a dynamic amount of rows indicating your types of experience and rating with each of them. To enable the table to do this, you need to do the following:
 1. Switch back to **Content** pane. Select **Row 2** and in the component's toolbar, click on **...** and then on **Delete Row**. In the *Delete Row* confirmation dialog, confirm by clicking **Yes**.\
 This will delete the second row from the table. Our table will have dynamic rows (much alike the dynamic panel we saw in the previous exercise) and each row entry will be based on what we define for the first row.
-2. Select the textbox in *Row 1* by clicking that cell in the table in the form, or by selecting first **Text Row** underneath *Row 1* in the *Content* pane.
+2. Select the textbox in *Row 1* by clicking that cell in the table in the form, or by selecting first **Text Box** underneath *Row 1* in the *Content* pane.
 3. On the component's toolbar, click on the **...** and then select **Replace**. In the *Replace Component* dialog, select **Drop-down List**. This will replace the component. By default, a table is created with text box components in each of the cell and this is how we can change this.
 4. Select the drop-down list component and click on **Properties**. In the *Properties* pane, enter `dlExperience` for *Name* and `Experience` for *Title*. Note however that the title for this component is hidden by default.
 5. Add the following items to the drop-down list: `Knowledge`, `Presentation`, `London Weather` and `London Food`. 

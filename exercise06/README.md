@@ -39,7 +39,7 @@ We want the table to be a bit more descriptive for first time users. To do so:
 2. Do the same with the right column header; rename this to `Rating`.
 Finally we will modify the *Experience* panel containing the table with some description to guide the user. To do so:
 3. Switch to *Content* pane by clicking on **Content**.
-4. Select the **Experience** entry and click on the **Configure** button in the entry.
+4. Select the **Experience** entry for the panel (not for the column header!) and click on the **Configure** button in the entry.
 5. Enter the following text in *Description*: `How would you rate your experiences on the following items...`.
 6. Click on **√** to confirm.
 
